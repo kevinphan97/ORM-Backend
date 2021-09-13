@@ -20,7 +20,8 @@
   To run the server, simply run "npm start" in the command terminal in the root directory.
 
   ## Video
-  
+  ![Video](https://github.com/kevinphan97/ORM-Backend/blob/main/Develop/assets/ORM%20backend.mp4)
+
   ## Contribution
   No contribution needed.
 
